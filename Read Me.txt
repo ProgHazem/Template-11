@@ -1,0 +1,23 @@
+******************************************************************
+========== Simple Site for AXIT ==============
+
+Template 11
+
+==> use HTML5.
+
+==> use CSS3.
+
+==> use Bootstrap
+
+==> use Fontawesome
+
+==> use Jquery
+
+==> use Jquery Nicescroll
+
+==> use Google Fonts
+
+
+                                               thanks for reading
+                                                      Hazem
+*******************************************************************
